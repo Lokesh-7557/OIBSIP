@@ -4,7 +4,6 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import OneHotEncoder
-from sklearn import metrics
 
 #loading data
 Car_data = pd.read_csv("car data.csv")
@@ -60,11 +59,6 @@ model.fit(X_train, y_train)
 
 predict = model.predict(X_test)
 print(predict)
-
-error_score = metrics.r2_square(y_train, predict)
-print("R squared error : ", error_score)
-# print(f"Mean Squared Error: {mean_squared_error(y_test, y_pred)}")
-# print(f"R-squared: {r2_score(y_test, y_pred)}")
 
 
 

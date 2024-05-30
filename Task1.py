@@ -27,7 +27,7 @@ print(iris_data["Species"].value_counts())
 
 #Analysing data
 sns.pairplot(iris_data, hue="Species")
-plt.show()
+plt.show()  
 
 X = iris_data.drop("Species", axis=1)
 print(X)
