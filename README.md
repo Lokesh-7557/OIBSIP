@@ -1,6 +1,6 @@
 # OIBSIP
-Internship Tasks
-Intern : Lokesh Kumar
-Linkedin Profile : www.linkedin.com/in/lokeshkumar74
-Domain : Data Science and Machine Learning
-Batch : MAY Phase 2 AICTE OIB-SIP 2024
+Internship Tasks <br>
+Intern : Lokesh Kumar <br>
+Linkedin Profile : www.linkedin.com/in/lokeshkumar74 <br>
+Domain : Data Science and Machine Learning <br>
+Batch : MAY Phase 2 AICTE OIB-SIP 2024 <br>
